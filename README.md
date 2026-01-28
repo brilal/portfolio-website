@@ -8,7 +8,8 @@ https://brilal.github.io/portfolio-website/
 
 ## 🛠️ Technologies Used
 - HTML  
-- CSS  
+- CSS
+- Bootstrap 
 
 ## 📁 Project Structure
 - `index.html` – Main webpage  
@@ -24,5 +25,56 @@ This portfolio was created as part of my web development coursework. It demonstr
 - Add more projects  
 - Add images/screenshots  
 - Add a contact section  
-- Improve layout and responsiveness  
+- Improve layout and responsiveness  # Portfolio Website – HTML, CSS, and Bootstrap
+
+This repository contains my final portfolio website created for the HTML, CSS, and Bootstrap course. It showcases the projects I built throughout the course and demonstrates my understanding of responsive design, layout, and basic front-end development.
+
+---
+
+## Live Website Options Assignment
+
+Now that I am done with all of the assignments, this repository also reflects the final version of my work. As part of the Live Website Options Assignment, I have updated this README to include a description of all of the projects I created during this course.
+
+---
+
+## Projects Completed in This Course
+
+### 1. One-Page Website
+**Description:**  
+A single-page website built using HTML and CSS.  
+**Key features:**
+- Semantic HTML structure
+- Basic CSS styling
+- Navigation links that scroll to sections on the same page
+
+### 2. Bootstrap 4 Project
+**Description:**  
+A multi-section page created using the Bootstrap 4 framework.  
+**Key features:**
+- Responsive grid layout
+- Bootstrap navbar
+- Buttons, cards, and other Bootstrap components
+
+### 3. Portfolio Website (This Repository)
+**Description:**  
+A personal portfolio website that brings together my work from the course.  
+**Key features:**
+- Custom CSS styling
+- Sections for About, Projects, and Contact
+- Links or descriptions for the projects listed above
+
+---
+
+## Technologies Used
+
+- HTML5  
+- CSS3  
+- Bootstrap  
+
+---
+
+## Purpose of This Repository
+
+This repository serves as a record of my progress in learning HTML, CSS, and Bootstrap. It also acts as a starting point for my future web development projects and portfolio.
+
 
