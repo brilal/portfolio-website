@@ -1,6 +1,20 @@
-# Portfolio Website
+
+# Portfolio Website – HTML, CSS, and Bootstrap
 
 This is my personal portfolio website created using HTML and CSS. It showcases my work, projects, and skills developed throughout my web development learning journey.
+
+This repository contains my final portfolio website created for the HTML, CSS, and Bootstrap course. It showcases the projects I built throughout the course and demonstrates my understanding of responsive design, layout, and basic front-end development.
+
+## Live Website
+[Link to my live portfolio website](https://brilal.github.io/portfolio-website/)
+
+## Project Structure
+- **index.html** – Main HTML file for the portfolio  
+- **style.css** – Custom CSS styling  
+- **images/** – Folder containing images used in the website  
+
+## Purpose of This Repository
+This project represents my progress in learning HTML, CSS, and Bootstrap. It also serves as a foundation for future web development work and portfolio growth.
 
 ## 🌐 Live Website
 Visit my live portfolio here:  
