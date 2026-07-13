@@ -1,23 +1,69 @@
+/* General page styling */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
 }
 
+/* Header */
 header {
-    background: #333;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  background-color: #0078d7;
+  color: white;
+  text-align: center;
+  padding: 30px 0;
 }
 
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+/* Section layout */
 section {
-    padding: 20px;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* Headings */
+h2 {
+  color: #0078d7;
+  border-bottom: 2px solid #0078d7;
+  padding-bottom: 5px;
+}
+
+/* Lists */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #0078d7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
 footer {
-    background: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
+  text-align: center;
+  background-color: #0078d7;
+  color: white;
+  padding: 15px 0;
+  margin-top: 40px;
+  font-size: 0.9em;
 }
